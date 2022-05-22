@@ -1,0 +1,4 @@
+database.db
+go.mod
+go.sum
+.env
